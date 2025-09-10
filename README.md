@@ -1,2 +1,1 @@
-# RIS-25-1b-Stegaresku-Nikita-Programming
-My works
+Проект создан 10 сентября 2025 года
